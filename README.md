@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<br /><br />
+<br />
 <h1 align="center">📝 About me 📝</h1>
 
 <div align="center">
@@ -21,7 +21,6 @@
   👾 Owner of a Discord server with over 100 members to provide assistance for Computer Science courses
 
 </div>
-<h1></h1>
 
 <br /><br /><br />
 
@@ -97,8 +96,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ericksonl&show_icons=true&theme=synthwave&count_private=true&hide_border=true&include_all_commits=true">
 </div>
 
-<h1></h1>
-
 <br /><br /><br />
 
 <h1 align="center">💬 Contact Me 💬</h1>
@@ -115,6 +112,5 @@
   
   <p><b>Website:</b></p>
   <p><strong><a href="webpages.sou.edu/~ericksonl">webpages.sou.edu/~ericksonl</a></strong></p>
-  <h1></h1>
 
 </div>
