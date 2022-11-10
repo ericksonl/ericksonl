@@ -53,6 +53,6 @@
   <br />
   
   <p><b>Website:</b></p>
-  <p><strong><a href="webpages.sou.edu/~ericksonl">webpages.sou.edu/~ericksonl</a></strong></p>
+  <p><a href="https://webpages.sou.edu/~ericksonl">webpages.sou.edu/~ericksonl</a></p>
 
 </div>
