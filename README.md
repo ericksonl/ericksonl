@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/ericksonl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/liam-erickson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="mailto: liamedev@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/email-%23BB001B.svg?&style=for-the-badge"/></a>
-  <a href="https://webpages.sou.edu/~ericksonl" target="_blank"><img alt="" src="https://img.shields.io/badge/website-%239C7CA5.svg?&style=for-the-badge"/></a></p>
+  <a href="https://www.liamedev.com" target="_blank"><img alt="" src="https://img.shields.io/badge/website-%239C7CA5.svg?&style=for-the-badge"/></a></p>
 
 <img src="https://github.com/ericksonl/ericksonl/blob/main/assets/Background.png">
 <p align="center">
@@ -54,6 +54,6 @@
   <br />
   
   <p><b>Website:</b></p>
-  <p><a href="https://webpages.sou.edu/~ericksonl">webpages.sou.edu/~ericksonl</a></p>
+  <p><a href="https://www.liamedev.com">liamedev.com</a></p>
 
 </div>
