@@ -19,7 +19,7 @@
 
   👩🏻‍💻 Fullstack engineer with a love for C, Java, JavaScript and React.JS
 
-  👾 Owner of a Discord server with over 100 members to provide assistance for Computer Science courses
+  👾 Previous owner of a Discord server with over 100 members to provide assistance for Computer Science courses
 
 </div>
 
