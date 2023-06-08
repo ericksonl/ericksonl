@@ -36,7 +36,8 @@
 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ericksonl&theme=synthwave&hide_border=true">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ericksonl&show_icons=true&theme=synthwave&count_private=true&hide_border=true&include_all_commits=true">
+  [comment]: <> (<img src="https://github-readme-stats.vercel.app/api?username=ericksonl&show_icons=true&theme=synthwave&count_private=true&hide_border=true&include_all_commits=true">)
+
 </div>
 
 <br /><br /><br />
