@@ -17,9 +17,9 @@
 
 <div align="center">
 
-  🏫 Student at Southern Oregon University studying Computer Science and Mathematics (2023)
+  🏫 Mathematics and Computer Science graduate from Southern Oregon University (2023)
 
-  👩🏻‍💻 Fullstack engineer with a love for Java, JavaScript and React.JS
+  👩🏻‍💻 Fullstack engineer with a love for Java, R, JavaScript and React.JS
 
   👾 Previous owner of a Discord server with over 100 members to provide assistance for Computer Science courses
 
