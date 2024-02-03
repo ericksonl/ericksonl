@@ -19,9 +19,9 @@
 
 <div align="center">
 
-  🏫 Mathematics and Computer Science graduate (2023)
-
   👩🏻‍💻 Fullstack enginner with a love for Data Analytics and JavaScript
+
+  🏫 Mathematics and Computer Science graduate (2023)
 
 </div>
 
