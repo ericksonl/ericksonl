@@ -21,7 +21,7 @@
 
   🏫 Mathematics and Computer Science graduate (2023)
 
-  👩🏻‍💻 Frontend dev with a love for JavaScript
+  👩🏻‍💻 Fillstack enginner with a love for Data Analytics and JavaScript
 
 </div>
 
