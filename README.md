@@ -19,11 +19,9 @@
 
 <div align="center">
 
-  🏫 Mathematics and Computer Science graduate from Southern Oregon University (2023)
+  🏫 Mathematics and Computer Science graduate (2023)
 
-  👩🏻‍💻 Fullstack engineer with a love for Java, R, JavaScript and React.JS
-
-  👾 Previous owner of a Discord server with over 100 members to provide assistance for Computer Science courses
+  👩🏻‍💻 Frontend dev with a love for JavaScript
 
 </div>
 
@@ -37,8 +35,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-origina
 </p><p align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a><a href="https://https://d3js.org/" target="_blank" rel="noreferrer"><img 
 src="https://d3js.org/logo.svg" alt="d3js" width="40" height="40"/></a><a href="https://p5js.org/" target="_blank" rel="noreferrer"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg" alt="p5js" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img 
+src="https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg" alt="p5js" width="40" height="40"/></a><a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Html5_canvas_logo.png?20130725090653" alt="canvasjs" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 </p><p align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></p><p align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://blogs.windows.com/wp-content/uploads/prod/sites/2/2021/06/Windows11Icon.png" alt="microsoft windows" width="40" height="40"/></a></p>
