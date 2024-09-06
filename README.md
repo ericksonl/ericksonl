@@ -21,7 +21,9 @@
 
   👩🏻‍💻 Fullstack enginner with a love for Data Analytics and JavaScript
 
-  🏫 Mathematics and Computer Science graduate (2023)
+  🏫 Master of Science in Data Analytics (2026)
+
+  🎓 Bachelor of Science in Mathematics and Computer Science (2023)
 
 </div>
 
