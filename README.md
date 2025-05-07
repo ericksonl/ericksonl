@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  👩🏻‍💻 Fullstack enginner with a love for Data Analytics and JavaScript
+  👩🏻‍💻 Fullstack enginner with a love for Data Analytics, JavaScript, and R
 
   🏫 Master of Science in Data Analytics (2026)
 
